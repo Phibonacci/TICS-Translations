@@ -11,10 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "Learn %1"
 msgid "ContextMenu_TICS_learn_language"
 msgstr "Learn %1"
 
-msgctxt "Forget languages"
 msgid "ContextMenu_TICS_forget_languages"
 msgstr "Forget languages"

@@ -1,0 +1,796 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: tics@naej.fr\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2007-10-18 14:00+0100\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "Enable voices"
+msgid "UI_TICS_chat_enable_voices"
+msgstr "Увімкнути голоси"
+
+msgctxt "Disable voices"
+msgid "UI_TICS_chat_disable_voices"
+msgstr "Вимкнути голоси"
+
+msgctxt "Show radio icon"
+msgid "UI_TICS_enable_radio_icon"
+msgstr "Показати іконку радіо"
+
+msgctxt "Hide radio icon"
+msgid "UI_TICS_disable_radio_icon"
+msgstr "Приховати іконку радіо"
+
+msgctxt "Show bubble portrait"
+msgid "UI_TICS_enable_portrait"
+msgstr "Показати портрет у бульбашці"
+
+msgctxt "Hide bubble portrait"
+msgid "UI_TICS_disable_portrait"
+msgstr "Приховати портрет у бульбашці"
+
+msgctxt "%1 is speaking in %2"
+msgid "UI_TICS_Messages_unknown_language_spoken"
+msgstr ""
+
+msgctxt "You already know how to speak %1"
+msgid "UI_TICS_Messages_language_already_learnt"
+msgstr ""
+
+msgctxt "New language learnt: %1"
+msgid "UI_TICS_Messages_language_learnt"
+msgstr ""
+
+msgctxt "You forgot every language but %1"
+msgid "UI_TICS_Messages_languages_forgotten"
+msgstr ""
+
+msgctxt "Current language: %1 (%2)"
+msgid "UI_TICS_Messages_current_language"
+msgstr ""
+
+msgctxt "Known languages: %1"
+msgid "UI_TICS_Messages_known_languages"
+msgstr ""
+
+msgctxt "Unknown language code '%1', type /language to print known languages"
+msgid "UI_TICS_Messages_unknown_language_code"
+msgstr ""
+
+msgctxt "Current language set to %1"
+msgid "UI_TICS_Messages_language_set_to"
+msgstr ""
+
+msgctxt "Languages feature is disabled on this server"
+msgid "UI_TICS_Messages_languages_disabled"
+msgstr ""
+
+msgctxt "Abkhazian"
+msgid "UI_TICS_Languages_ab"
+msgstr ""
+
+msgctxt "Afar"
+msgid "UI_TICS_Languages_aa"
+msgstr ""
+
+msgctxt "Afrikaans"
+msgid "UI_TICS_Languages_af"
+msgstr ""
+
+msgctxt "Akan"
+msgid "UI_TICS_Languages_ak"
+msgstr ""
+
+msgctxt "Albanian"
+msgid "UI_TICS_Languages_sq"
+msgstr ""
+
+msgctxt "Amharic"
+msgid "UI_TICS_Languages_am"
+msgstr ""
+
+msgctxt "Arabic"
+msgid "UI_TICS_Languages_ar"
+msgstr ""
+
+msgctxt "Aragonese"
+msgid "UI_TICS_Languages_an"
+msgstr ""
+
+msgctxt "Armenian"
+msgid "UI_TICS_Languages_hy"
+msgstr ""
+
+msgctxt "Assamese"
+msgid "UI_TICS_Languages_as"
+msgstr ""
+
+msgctxt "Avaric"
+msgid "UI_TICS_Languages_av"
+msgstr ""
+
+msgctxt "Aymara"
+msgid "UI_TICS_Languages_ay"
+msgstr ""
+
+msgctxt "Azerbaijani"
+msgid "UI_TICS_Languages_az"
+msgstr ""
+
+msgctxt "Bambara"
+msgid "UI_TICS_Languages_bm"
+msgstr ""
+
+msgctxt "Bashkir"
+msgid "UI_TICS_Languages_ba"
+msgstr ""
+
+msgctxt "Basque"
+msgid "UI_TICS_Languages_eu"
+msgstr ""
+
+msgctxt "Belarusian"
+msgid "UI_TICS_Languages_be"
+msgstr ""
+
+msgctxt "Bengali"
+msgid "UI_TICS_Languages_bn"
+msgstr ""
+
+msgctxt "Bislama"
+msgid "UI_TICS_Languages_bi"
+msgstr ""
+
+msgctxt "Bosnian"
+msgid "UI_TICS_Languages_bs"
+msgstr ""
+
+msgctxt "Breton"
+msgid "UI_TICS_Languages_br"
+msgstr ""
+
+msgctxt "Bulgarian"
+msgid "UI_TICS_Languages_bg"
+msgstr ""
+
+msgctxt "Burmese"
+msgid "UI_TICS_Languages_my"
+msgstr ""
+
+msgctxt "Catalan"
+msgid "UI_TICS_Languages_ca"
+msgstr ""
+
+msgctxt "Chamorro"
+msgid "UI_TICS_Languages_ch"
+msgstr ""
+
+msgctxt "Chechen"
+msgid "UI_TICS_Languages_ce"
+msgstr ""
+
+msgctxt "Chichewa"
+msgid "UI_TICS_Languages_ny"
+msgstr ""
+
+msgctxt "Chinese"
+msgid "UI_TICS_Languages_zh"
+msgstr ""
+
+msgctxt "Chuvash"
+msgid "UI_TICS_Languages_cv"
+msgstr ""
+
+msgctxt "Cornish"
+msgid "UI_TICS_Languages_kw"
+msgstr ""
+
+msgctxt "Corsican"
+msgid "UI_TICS_Languages_co"
+msgstr ""
+
+msgctxt "Cree"
+msgid "UI_TICS_Languages_cr"
+msgstr ""
+
+msgctxt "Croatian"
+msgid "UI_TICS_Languages_hr"
+msgstr ""
+
+msgctxt "Czech"
+msgid "UI_TICS_Languages_cs"
+msgstr ""
+
+msgctxt "Danish"
+msgid "UI_TICS_Languages_da"
+msgstr ""
+
+msgctxt "Divehi"
+msgid "UI_TICS_Languages_dv"
+msgstr ""
+
+msgctxt "Dutch"
+msgid "UI_TICS_Languages_nl"
+msgstr ""
+
+msgctxt "Dzongkha"
+msgid "UI_TICS_Languages_dz"
+msgstr ""
+
+msgctxt "English"
+msgid "UI_TICS_Languages_en"
+msgstr ""
+
+msgctxt "Esperanto"
+msgid "UI_TICS_Languages_eo"
+msgstr ""
+
+msgctxt "Estonian"
+msgid "UI_TICS_Languages_et"
+msgstr ""
+
+msgctxt "Ewe"
+msgid "UI_TICS_Languages_ee"
+msgstr ""
+
+msgctxt "Faroese"
+msgid "UI_TICS_Languages_fo"
+msgstr ""
+
+msgctxt "Fijian"
+msgid "UI_TICS_Languages_fj"
+msgstr ""
+
+msgctxt "Finnish"
+msgid "UI_TICS_Languages_fi"
+msgstr ""
+
+msgctxt "French"
+msgid "UI_TICS_Languages_fr"
+msgstr ""
+
+msgctxt "Western Frisian"
+msgid "UI_TICS_Languages_fy"
+msgstr ""
+
+msgctxt "Fulah"
+msgid "UI_TICS_Languages_ff"
+msgstr ""
+
+msgctxt "Gaelic"
+msgid "UI_TICS_Languages_gd"
+msgstr ""
+
+msgctxt "Galician"
+msgid "UI_TICS_Languages_gl"
+msgstr ""
+
+msgctxt "Ganda"
+msgid "UI_TICS_Languages_lg"
+msgstr ""
+
+msgctxt "Georgian"
+msgid "UI_TICS_Languages_ka"
+msgstr ""
+
+msgctxt "German"
+msgid "UI_TICS_Languages_de"
+msgstr ""
+
+msgctxt "Greek"
+msgid "UI_TICS_Languages_el"
+msgstr ""
+
+msgctxt "Kalaallisut"
+msgid "UI_TICS_Languages_kl"
+msgstr ""
+
+msgctxt "Guarani"
+msgid "UI_TICS_Languages_gn"
+msgstr ""
+
+msgctxt "Gujarati"
+msgid "UI_TICS_Languages_gu"
+msgstr ""
+
+msgctxt "Haitian Haitian"
+msgid "UI_TICS_Languages_ht"
+msgstr ""
+
+msgctxt "Hausa"
+msgid "UI_TICS_Languages_ha"
+msgstr ""
+
+msgctxt "Hebrew"
+msgid "UI_TICS_Languages_he"
+msgstr ""
+
+msgctxt "Herero"
+msgid "UI_TICS_Languages_hz"
+msgstr ""
+
+msgctxt "Hindi"
+msgid "UI_TICS_Languages_hi"
+msgstr ""
+
+msgctxt "Hiri Motu"
+msgid "UI_TICS_Languages_ho"
+msgstr ""
+
+msgctxt "Hungarian"
+msgid "UI_TICS_Languages_hu"
+msgstr ""
+
+msgctxt "Icelandic"
+msgid "UI_TICS_Languages_is"
+msgstr ""
+
+msgctxt "Ido"
+msgid "UI_TICS_Languages_io"
+msgstr ""
+
+msgctxt "Igbo"
+msgid "UI_TICS_Languages_ig"
+msgstr ""
+
+msgctxt "Indonesian"
+msgid "UI_TICS_Languages_id"
+msgstr ""
+
+msgctxt "Interlingua"
+msgid "UI_TICS_Languages_ia"
+msgstr ""
+
+msgctxt "Interlingue"
+msgid "UI_TICS_Languages_ie"
+msgstr ""
+
+msgctxt "Inuktitut"
+msgid "UI_TICS_Languages_iu"
+msgstr ""
+
+msgctxt "Inupiaq"
+msgid "UI_TICS_Languages_ik"
+msgstr ""
+
+msgctxt "Irish"
+msgid "UI_TICS_Languages_ga"
+msgstr ""
+
+msgctxt "Italian"
+msgid "UI_TICS_Languages_it"
+msgstr ""
+
+msgctxt "Japanese"
+msgid "UI_TICS_Languages_ja"
+msgstr ""
+
+msgctxt "Javanese"
+msgid "UI_TICS_Languages_jv"
+msgstr ""
+
+msgctxt "Kannada"
+msgid "UI_TICS_Languages_kn"
+msgstr ""
+
+msgctxt "Kanuri"
+msgid "UI_TICS_Languages_kr"
+msgstr ""
+
+msgctxt "Kashmiri"
+msgid "UI_TICS_Languages_ks"
+msgstr ""
+
+msgctxt "Kazakh"
+msgid "UI_TICS_Languages_kk"
+msgstr ""
+
+msgctxt "Central Khmer"
+msgid "UI_TICS_Languages_km"
+msgstr ""
+
+msgctxt "Kikuyu"
+msgid "UI_TICS_Languages_ki"
+msgstr ""
+
+msgctxt "Kinyarwanda"
+msgid "UI_TICS_Languages_rw"
+msgstr ""
+
+msgctxt "Kirghiz"
+msgid "UI_TICS_Languages_ky"
+msgstr ""
+
+msgctxt "Komi"
+msgid "UI_TICS_Languages_kv"
+msgstr ""
+
+msgctxt "Kongo"
+msgid "UI_TICS_Languages_kg"
+msgstr ""
+
+msgctxt "Korean"
+msgid "UI_TICS_Languages_ko"
+msgstr ""
+
+msgctxt "Kuanyama"
+msgid "UI_TICS_Languages_kj"
+msgstr ""
+
+msgctxt "Kurdish"
+msgid "UI_TICS_Languages_ku"
+msgstr ""
+
+msgctxt "Lao"
+msgid "UI_TICS_Languages_lo"
+msgstr ""
+
+msgctxt "Latin"
+msgid "UI_TICS_Languages_la"
+msgstr ""
+
+msgctxt "Latvian"
+msgid "UI_TICS_Languages_lv"
+msgstr ""
+
+msgctxt "Limburgan"
+msgid "UI_TICS_Languages_li"
+msgstr ""
+
+msgctxt "Lingala"
+msgid "UI_TICS_Languages_ln"
+msgstr ""
+
+msgctxt "Lithuanian"
+msgid "UI_TICS_Languages_lt"
+msgstr ""
+
+msgctxt "Luba-Katanga"
+msgid "UI_TICS_Languages_lu"
+msgstr ""
+
+msgctxt "Luxembourgish"
+msgid "UI_TICS_Languages_lb"
+msgstr ""
+
+msgctxt "Macedonian"
+msgid "UI_TICS_Languages_mk"
+msgstr ""
+
+msgctxt "Malagasy"
+msgid "UI_TICS_Languages_mg"
+msgstr ""
+
+msgctxt "Malay"
+msgid "UI_TICS_Languages_ms"
+msgstr ""
+
+msgctxt "Malayalam"
+msgid "UI_TICS_Languages_ml"
+msgstr ""
+
+msgctxt "Maltese"
+msgid "UI_TICS_Languages_mt"
+msgstr ""
+
+msgctxt "Manx"
+msgid "UI_TICS_Languages_gv"
+msgstr ""
+
+msgctxt "Maori"
+msgid "UI_TICS_Languages_mi"
+msgstr ""
+
+msgctxt "Marathi"
+msgid "UI_TICS_Languages_mr"
+msgstr ""
+
+msgctxt "Marshallese"
+msgid "UI_TICS_Languages_mh"
+msgstr ""
+
+msgctxt "Mongolian"
+msgid "UI_TICS_Languages_mn"
+msgstr ""
+
+msgctxt "Nauru"
+msgid "UI_TICS_Languages_na"
+msgstr ""
+
+msgctxt "Navajo"
+msgid "UI_TICS_Languages_nv"
+msgstr ""
+
+msgctxt "North Ndebele"
+msgid "UI_TICS_Languages_nd"
+msgstr ""
+
+msgctxt "South Ndebele"
+msgid "UI_TICS_Languages_nr"
+msgstr ""
+
+msgctxt "Ndonga"
+msgid "UI_TICS_Languages_ng"
+msgstr ""
+
+msgctxt "Nepali"
+msgid "UI_TICS_Languages_ne"
+msgstr ""
+
+msgctxt "Norwegian"
+msgid "UI_TICS_Languages_no"
+msgstr ""
+
+msgctxt "Bokmal"
+msgid "UI_TICS_Languages_nb"
+msgstr ""
+
+msgctxt "Nynorsk"
+msgid "UI_TICS_Languages_nn"
+msgstr ""
+
+msgctxt "Occitan"
+msgid "UI_TICS_Languages_oc"
+msgstr ""
+
+msgctxt "Ojibwa"
+msgid "UI_TICS_Languages_oj"
+msgstr ""
+
+msgctxt "Oriya"
+msgid "UI_TICS_Languages_or"
+msgstr ""
+
+msgctxt "Oromo"
+msgid "UI_TICS_Languages_om"
+msgstr ""
+
+msgctxt "Ossetian"
+msgid "UI_TICS_Languages_os"
+msgstr ""
+
+msgctxt "Pali"
+msgid "UI_TICS_Languages_pi"
+msgstr ""
+
+msgctxt "Pashto"
+msgid "UI_TICS_Languages_ps"
+msgstr ""
+
+msgctxt "Persian"
+msgid "UI_TICS_Languages_fa"
+msgstr ""
+
+msgctxt "Polish"
+msgid "UI_TICS_Languages_pl"
+msgstr ""
+
+msgctxt "Portuguese"
+msgid "UI_TICS_Languages_pt"
+msgstr ""
+
+msgctxt "Punjabi"
+msgid "UI_TICS_Languages_pa"
+msgstr ""
+
+msgctxt "Quechua"
+msgid "UI_TICS_Languages_qu"
+msgstr ""
+
+msgctxt "Romanian"
+msgid "UI_TICS_Languages_ro"
+msgstr ""
+
+msgctxt "Romansh"
+msgid "UI_TICS_Languages_rm"
+msgstr ""
+
+msgctxt "Rundi"
+msgid "UI_TICS_Languages_rn"
+msgstr ""
+
+msgctxt "Russian"
+msgid "UI_TICS_Languages_ru"
+msgstr ""
+
+msgctxt "Northern Sami"
+msgid "UI_TICS_Languages_se"
+msgstr ""
+
+msgctxt "Samoan"
+msgid "UI_TICS_Languages_sm"
+msgstr ""
+
+msgctxt "Sango"
+msgid "UI_TICS_Languages_sg"
+msgstr ""
+
+msgctxt "Sanskrit"
+msgid "UI_TICS_Languages_sa"
+msgstr ""
+
+msgctxt "Sardinian"
+msgid "UI_TICS_Languages_sc"
+msgstr ""
+
+msgctxt "Serbian"
+msgid "UI_TICS_Languages_sr"
+msgstr ""
+
+msgctxt "Shona"
+msgid "UI_TICS_Languages_sn"
+msgstr ""
+
+msgctxt "Sindhi"
+msgid "UI_TICS_Languages_sd"
+msgstr ""
+
+msgctxt "Sinhala"
+msgid "UI_TICS_Languages_si"
+msgstr ""
+
+msgctxt "Slovak"
+msgid "UI_TICS_Languages_sk"
+msgstr ""
+
+msgctxt "Slovenian"
+msgid "UI_TICS_Languages_sl"
+msgstr ""
+
+msgctxt "Somali"
+msgid "UI_TICS_Languages_so"
+msgstr ""
+
+msgctxt "Southern Sotho"
+msgid "UI_TICS_Languages_st"
+msgstr ""
+
+msgctxt "Spanish"
+msgid "UI_TICS_Languages_es"
+msgstr ""
+
+msgctxt "Sundanese"
+msgid "UI_TICS_Languages_su"
+msgstr ""
+
+msgctxt "Swahili"
+msgid "UI_TICS_Languages_sw"
+msgstr ""
+
+msgctxt "Swati"
+msgid "UI_TICS_Languages_ss"
+msgstr ""
+
+msgctxt "Swedish"
+msgid "UI_TICS_Languages_sv"
+msgstr ""
+
+msgctxt "Tagalog"
+msgid "UI_TICS_Languages_tl"
+msgstr ""
+
+msgctxt "Tahitian"
+msgid "UI_TICS_Languages_ty"
+msgstr ""
+
+msgctxt "Tajik"
+msgid "UI_TICS_Languages_tg"
+msgstr ""
+
+msgctxt "Tamil"
+msgid "UI_TICS_Languages_ta"
+msgstr ""
+
+msgctxt "Tatar"
+msgid "UI_TICS_Languages_tt"
+msgstr ""
+
+msgctxt "Telugu"
+msgid "UI_TICS_Languages_te"
+msgstr ""
+
+msgctxt "Thai"
+msgid "UI_TICS_Languages_th"
+msgstr ""
+
+msgctxt "Tibetan"
+msgid "UI_TICS_Languages_bo"
+msgstr ""
+
+msgctxt "Tigrinya"
+msgid "UI_TICS_Languages_ti"
+msgstr ""
+
+msgctxt "Tonga"
+msgid "UI_TICS_Languages_to"
+msgstr ""
+
+msgctxt "Tsonga"
+msgid "UI_TICS_Languages_ts"
+msgstr ""
+
+msgctxt "Tswana"
+msgid "UI_TICS_Languages_tn"
+msgstr ""
+
+msgctxt "Turkish"
+msgid "UI_TICS_Languages_tr"
+msgstr ""
+
+msgctxt "Turkmen"
+msgid "UI_TICS_Languages_tk"
+msgstr ""
+
+msgctxt "Twi"
+msgid "UI_TICS_Languages_tw"
+msgstr ""
+
+msgctxt "Uighur"
+msgid "UI_TICS_Languages_ug"
+msgstr ""
+
+msgctxt "Ukrainian"
+msgid "UI_TICS_Languages_uk"
+msgstr ""
+
+msgctxt "Urdu"
+msgid "UI_TICS_Languages_ur"
+msgstr ""
+
+msgctxt "Uzbek"
+msgid "UI_TICS_Languages_uz"
+msgstr ""
+
+msgctxt "Venda"
+msgid "UI_TICS_Languages_ve"
+msgstr ""
+
+msgctxt "Vietnamese"
+msgid "UI_TICS_Languages_vi"
+msgstr ""
+
+msgctxt "Volapük"
+msgid "UI_TICS_Languages_vo"
+msgstr ""
+
+msgctxt "Walloon"
+msgid "UI_TICS_Languages_wa"
+msgstr ""
+
+msgctxt "Welsh"
+msgid "UI_TICS_Languages_cy"
+msgstr ""
+
+msgctxt "Wolof"
+msgid "UI_TICS_Languages_wo"
+msgstr ""
+
+msgctxt "Xhosa"
+msgid "UI_TICS_Languages_xh"
+msgstr ""
+
+msgctxt "Sichuan Yi"
+msgid "UI_TICS_Languages_ii"
+msgstr ""
+
+msgctxt "Yiddish"
+msgid "UI_TICS_Languages_yi"
+msgstr ""
+
+msgctxt "Yoruba"
+msgid "UI_TICS_Languages_yo"
+msgstr ""
+
+msgctxt "Zhuang"
+msgid "UI_TICS_Languages_za"
+msgstr ""
+
+msgctxt "Zulu"
+msgid "UI_TICS_Languages_zu"
+msgstr ""

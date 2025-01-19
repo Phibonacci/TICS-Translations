@@ -1,0 +1,227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: tics@naej.fr\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2007-10-18 14:00+0100\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "Total Immersive Chat System"
+msgid "Sandbox_TICS"
+msgstr ""
+
+msgctxt "Total Immersive Chat System: Channels"
+msgid "Sandbox_TICSChannels"
+msgstr ""
+
+msgctxt "Show character name in chat instead of username"
+msgid "Sandbox_TICS_ShowCharacterName"
+msgstr ""
+
+msgctxt "Boredom reduction by message heard"
+msgid "Sandbox_TICS_BoredomReduction"
+msgstr ""
+
+msgctxt "Enable roleplay languages"
+msgid "Sandbox_TICS_Languages"
+msgstr ""
+
+msgctxt ""
+"Show player portrait on the left of the Bubble (custom goes in: "
+"Zomboid/Lua/avatars/username.png on server)"
+msgid "Sandbox_TICS_BubblePortrait"
+msgstr ""
+
+msgctxt ""
+"Show player portrait on the left of the Bubble.\\nCustom avatars go to: "
+"Zomboid/Lua/avatars/username.png on the server.\\nVanilla portrait will be "
+"used if no image is found for the username.\\n1 = None\\n2 = Vanilla\\n 3 = "
+"Steam Avatar\\n4 = Custom"
+msgid "Sandbox_TICS_BubblePortrait_help"
+msgstr ""
+
+msgctxt "None"
+msgid "Sandbox_TICS_BubblePortrait_Values_option1"
+msgstr ""
+
+msgctxt "Custom and Vanilla"
+msgid "Sandbox_TICS_BubblePortrait_Values_option2"
+msgstr ""
+
+msgctxt "Steam Avatar"
+msgid "Sandbox_TICS_BubblePortrait_Values_option3"
+msgstr ""
+
+msgctxt "Bubble timer (seconds)"
+msgid "Sandbox_TICS_BubbleTimerInSeconds"
+msgstr ""
+
+msgctxt "Bubble opacity"
+msgid "Sandbox_TICS_BubbleOpacity"
+msgstr ""
+
+msgctxt "Enable player fake voices"
+msgid "Sandbox_TICS_VoiceEnabled"
+msgstr ""
+
+msgctxt "Add verb prefix to messages, and quotes"
+msgid "Sandbox_TICS_VerbEnabled"
+msgstr ""
+
+msgctxt ""
+"Automatically capitalize the first letter of a message and add punctuation"
+msgid "Sandbox_TICS_Capitalize"
+msgstr ""
+
+msgctxt "Hide callouts in chat window (Q spam)"
+msgid "Sandbox_TICS_HideCallout"
+msgstr ""
+
+msgctxt "Markdown one asterisk color"
+msgid "Sandbox_TICS_MarkdownOneAsteriskColor"
+msgstr ""
+
+msgctxt "Markdown two asterisks color"
+msgid "Sandbox_TICS_MarkdownTwoAsterisksColor"
+msgstr ""
+
+msgctxt "Enable discord sync with /general messages"
+msgid "Sandbox_TICS_GeneralDiscordEnabled"
+msgstr ""
+
+msgctxt "Enable discord sync with a radio channel"
+msgid "Sandbox_TICS_RadioDiscordEnabled"
+msgstr ""
+
+msgctxt "Set the radio frequency to sync with discord (100.000MHz is 100000)"
+msgid "Sandbox_TICS_RadioDiscordFrequency"
+msgstr ""
+
+msgctxt "Set the color of scripted radio messages"
+msgid "Sandbox_TICS_RadioColor"
+msgstr ""
+
+msgctxt "Maximum range at which a radio with full volume can be heard"
+msgid "Sandbox_TICS_RadioSoundMaxRange"
+msgstr ""
+
+msgctxt "Enable /whisper chat"
+msgid "Sandbox_TICS_WhisperEnabled"
+msgstr ""
+
+msgctxt "Enable /low chat"
+msgid "Sandbox_TICS_LowEnabled"
+msgstr ""
+
+msgctxt "Enable /say chat"
+msgid "Sandbox_TICS_SayEnabled"
+msgstr ""
+
+msgctxt "Enable /yell chat"
+msgid "Sandbox_TICS_YellEnabled"
+msgstr ""
+
+msgctxt "Enable /pm (private message) chat"
+msgid "Sandbox_TICS_PrivateMessageEnabled"
+msgstr ""
+
+msgctxt "Enable /faction chat"
+msgid "Sandbox_TICS_FactionMessageEnabled"
+msgstr ""
+
+msgctxt "Enable /safehouse chat"
+msgid "Sandbox_TICS_SafeHouseMessageEnabled"
+msgstr ""
+
+msgctxt "Enable /general chat"
+msgid "Sandbox_TICS_GeneralMessageEnabled"
+msgstr ""
+
+msgctxt "Enable /admin chat"
+msgid "Sandbox_TICS_AdminMessageEnabled"
+msgstr ""
+
+msgctxt "Enable /ooc (Out Of Character) chat"
+msgid "Sandbox_TICS_OutOfCharacterMessageEnabled"
+msgstr ""
+
+msgctxt "Set /whisper color"
+msgid "Sandbox_TICS_WhisperColor"
+msgstr ""
+
+msgctxt "Set /low color"
+msgid "Sandbox_TICS_LowColor"
+msgstr ""
+
+msgctxt "Set /say color"
+msgid "Sandbox_TICS_SayColor"
+msgstr ""
+
+msgctxt "Set /yell color"
+msgid "Sandbox_TICS_YellColor"
+msgstr ""
+
+msgctxt "Set /pm (private message) color"
+msgid "Sandbox_TICS_PrivateMessageColor"
+msgstr ""
+
+msgctxt "Set /faction color"
+msgid "Sandbox_TICS_FactionMessageColor"
+msgstr ""
+
+msgctxt "Set /safehouse color"
+msgid "Sandbox_TICS_SafeHouseMessageColor"
+msgstr ""
+
+msgctxt "Set /general color"
+msgid "Sandbox_TICS_GeneralMessageColor"
+msgstr ""
+
+msgctxt "Set /admin color"
+msgid "Sandbox_TICS_AdminMessageColor"
+msgstr ""
+
+msgctxt "Set /ooc (Out Of Character) color"
+msgid "Sandbox_TICS_OutOfCharacterMessageColor"
+msgstr ""
+
+msgctxt "/whisper chat range"
+msgid "Sandbox_TICS_WhisperRange"
+msgstr ""
+
+msgctxt "/low chat range"
+msgid "Sandbox_TICS_LowRange"
+msgstr ""
+
+msgctxt "/say chat range"
+msgid "Sandbox_TICS_SayRange"
+msgstr ""
+
+msgctxt "/yell chat range"
+msgid "Sandbox_TICS_YellRange"
+msgstr ""
+
+msgctxt "/ooc (Out Of Character) chat range"
+msgid "Sandbox_TICS_OutOfCharacterMessageRange"
+msgstr ""
+
+msgctxt "/whisper chat rombie range"
+msgid "Sandbox_TICS_WhisperZombieRange"
+msgstr ""
+
+msgctxt "/low chat rombie range"
+msgid "Sandbox_TICS_LowZombieRange"
+msgstr ""
+
+msgctxt "/say chat rombie range"
+msgid "Sandbox_TICS_SayZombieRange"
+msgstr ""
+
+msgctxt "/yell chat rombie range"
+msgid "Sandbox_TICS_YellZombieRange"
+msgstr ""

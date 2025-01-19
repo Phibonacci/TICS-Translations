@@ -1,0 +1,235 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: tics@naej.fr\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2007-10-18 14:00+0100\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "Total Immersive Chat System"
+msgid "Sandbox_TICS"
+msgstr "Система полного погружения в чат"
+
+msgctxt "Total Immersive Chat System: Channels"
+msgid "Sandbox_TICSChannels"
+msgstr "Система полного погружения в чат: Каналы"
+
+msgctxt "Show character name in chat instead of username"
+msgid "Sandbox_TICS_ShowCharacterName"
+msgstr "Отображать имя персонажа в чате вместо имени пользователя"
+
+msgctxt "Boredom reduction by message heard"
+msgid "Sandbox_TICS_BoredomReduction"
+msgstr "Снижение скуки за каждое услышанное сообщение"
+
+msgctxt "Enable roleplay languages"
+msgid "Sandbox_TICS_Languages"
+msgstr ""
+
+msgctxt ""
+"Show player portrait on the left of the Bubble (custom goes in: "
+"Zomboid/Lua/avatars/username.png on server)"
+msgid "Sandbox_TICS_BubblePortrait"
+msgstr ""
+"Отображать портрет игрока слева от «пузырька» (пользовательские аватары "
+"помещаются в: Zomboid/Lua/avatars/username.png на сервере)"
+
+msgctxt ""
+"Show player portrait on the left of the Bubble.\\nCustom avatars go to: "
+"Zomboid/Lua/avatars/username.png on the server.\\nVanilla portrait will be "
+"used if no image is found for the username.\\n1 = None\\n2 = Vanilla\\n 3 = "
+"Steam Avatar\\n4 = Custom"
+msgid "Sandbox_TICS_BubblePortrait_help"
+msgstr ""
+"Отображать портрет игрока слева от «пузырька».\\nПользовательские аватары "
+"должны находиться в: Zomboid/Lua/avatars/username.png на сервере.\\nЕсли для"
+" имени пользователя не найдено изображение, будет использован стандартный "
+"портрет.\\n1 = Нет\\n2 = Стандартный\\n3 = Аватар Steam\\n4 = "
+"Пользовательский"
+
+msgctxt "None"
+msgid "Sandbox_TICS_BubblePortrait_Values_option1"
+msgstr "Нет"
+
+msgctxt "Custom and Vanilla"
+msgid "Sandbox_TICS_BubblePortrait_Values_option2"
+msgstr "Стандартный и пользовательский"
+
+msgctxt "Steam Avatar"
+msgid "Sandbox_TICS_BubblePortrait_Values_option3"
+msgstr "Аватар Steam"
+
+msgctxt "Bubble timer (seconds)"
+msgid "Sandbox_TICS_BubbleTimerInSeconds"
+msgstr "Таймер «пузырька» (в секундах)"
+
+msgctxt "Bubble opacity"
+msgid "Sandbox_TICS_BubbleOpacity"
+msgstr "Прозрачность «пузырька»"
+
+msgctxt "Enable player fake voices"
+msgid "Sandbox_TICS_VoiceEnabled"
+msgstr "Включить имитацию голосов игроков"
+
+msgctxt "Add verb prefix to messages, and quotes"
+msgid "Sandbox_TICS_VerbEnabled"
+msgstr "Добавлять глагол в начале сообщения и заключать текст в кавычки"
+
+msgctxt ""
+"Automatically capitalize the first letter of a message and add punctuation"
+msgid "Sandbox_TICS_Capitalize"
+msgstr ""
+
+msgctxt "Hide callouts in chat window (Q spam)"
+msgid "Sandbox_TICS_HideCallout"
+msgstr "Скрывать призывы (Q) в окне чата"
+
+msgctxt "Markdown one asterisk color"
+msgid "Sandbox_TICS_MarkdownOneAsteriskColor"
+msgstr "Цвет для выделения * (одной звёздочки)"
+
+msgctxt "Markdown two asterisks color"
+msgid "Sandbox_TICS_MarkdownTwoAsterisksColor"
+msgstr "Цвет для выделения ** (двух звёздочек)"
+
+msgctxt "Enable discord sync with /general messages"
+msgid "Sandbox_TICS_GeneralDiscordEnabled"
+msgstr "Включить синхронизацию с Discord для сообщений /general"
+
+msgctxt "Enable discord sync with a radio channel"
+msgid "Sandbox_TICS_RadioDiscordEnabled"
+msgstr "Включить синхронизацию с Discord для радиоканала"
+
+msgctxt "Set the radio frequency to sync with discord (100.000MHz is 100000)"
+msgid "Sandbox_TICS_RadioDiscordFrequency"
+msgstr ""
+"Установить радиочастоту для синхронизации с Discord (100.000МГц = 100000)"
+
+msgctxt "Set the color of scripted radio messages"
+msgid "Sandbox_TICS_RadioColor"
+msgstr "Установить цвет сообщений от скриптового радио"
+
+msgctxt "Maximum range at which a radio with full volume can be heard"
+msgid "Sandbox_TICS_RadioSoundMaxRange"
+msgstr "Максимальная дистанция слышимости радио на полной громкости"
+
+msgctxt "Enable /whisper chat"
+msgid "Sandbox_TICS_WhisperEnabled"
+msgstr "Включить чат /whisper"
+
+msgctxt "Enable /low chat"
+msgid "Sandbox_TICS_LowEnabled"
+msgstr "Включить чат /low"
+
+msgctxt "Enable /say chat"
+msgid "Sandbox_TICS_SayEnabled"
+msgstr "Включить чат /say"
+
+msgctxt "Enable /yell chat"
+msgid "Sandbox_TICS_YellEnabled"
+msgstr "Включить чат /yell"
+
+msgctxt "Enable /pm (private message) chat"
+msgid "Sandbox_TICS_PrivateMessageEnabled"
+msgstr "Включить чат /pm (личное сообщение)"
+
+msgctxt "Enable /faction chat"
+msgid "Sandbox_TICS_FactionMessageEnabled"
+msgstr "Включить чат /faction"
+
+msgctxt "Enable /safehouse chat"
+msgid "Sandbox_TICS_SafeHouseMessageEnabled"
+msgstr "Включить чат /safehouse"
+
+msgctxt "Enable /general chat"
+msgid "Sandbox_TICS_GeneralMessageEnabled"
+msgstr "Включить чат /general"
+
+msgctxt "Enable /admin chat"
+msgid "Sandbox_TICS_AdminMessageEnabled"
+msgstr "Включить чат /admin"
+
+msgctxt "Enable /ooc (Out Of Character) chat"
+msgid "Sandbox_TICS_OutOfCharacterMessageEnabled"
+msgstr "Включить чат /ooc (Out Of Character)"
+
+msgctxt "Set /whisper color"
+msgid "Sandbox_TICS_WhisperColor"
+msgstr "Установить цвет для /whisper"
+
+msgctxt "Set /low color"
+msgid "Sandbox_TICS_LowColor"
+msgstr "Установить цвет для /low"
+
+msgctxt "Set /say color"
+msgid "Sandbox_TICS_SayColor"
+msgstr "Установить цвет для /say"
+
+msgctxt "Set /yell color"
+msgid "Sandbox_TICS_YellColor"
+msgstr "Установить цвет для /yell"
+
+msgctxt "Set /pm (private message) color"
+msgid "Sandbox_TICS_PrivateMessageColor"
+msgstr "Установить цвет для /pm (личное сообщение)"
+
+msgctxt "Set /faction color"
+msgid "Sandbox_TICS_FactionMessageColor"
+msgstr "Установить цвет для /faction"
+
+msgctxt "Set /safehouse color"
+msgid "Sandbox_TICS_SafeHouseMessageColor"
+msgstr "Установить цвет для /safehouse"
+
+msgctxt "Set /general color"
+msgid "Sandbox_TICS_GeneralMessageColor"
+msgstr "Установить цвет для /general"
+
+msgctxt "Set /admin color"
+msgid "Sandbox_TICS_AdminMessageColor"
+msgstr "Установить цвет для /admin"
+
+msgctxt "Set /ooc (Out Of Character) color"
+msgid "Sandbox_TICS_OutOfCharacterMessageColor"
+msgstr "Установить цвет для /ooc (Out Of Character)"
+
+msgctxt "/whisper chat range"
+msgid "Sandbox_TICS_WhisperRange"
+msgstr "Дистанция слышимости для чата /whisper"
+
+msgctxt "/low chat range"
+msgid "Sandbox_TICS_LowRange"
+msgstr "Дистанция слышимости для чата /low"
+
+msgctxt "/say chat range"
+msgid "Sandbox_TICS_SayRange"
+msgstr "Дистанция слышимости для чата /say"
+
+msgctxt "/yell chat range"
+msgid "Sandbox_TICS_YellRange"
+msgstr "Дистанция слышимости для чата /yell"
+
+msgctxt "/ooc (Out Of Character) chat range"
+msgid "Sandbox_TICS_OutOfCharacterMessageRange"
+msgstr "Дистанция слышимости для чата /ooc (Out Of Character)"
+
+msgctxt "/whisper chat rombie range"
+msgid "Sandbox_TICS_WhisperZombieRange"
+msgstr "Дистанция слышимости зомби для чата /whisper"
+
+msgctxt "/low chat rombie range"
+msgid "Sandbox_TICS_LowZombieRange"
+msgstr "Дистанция слышимости зомби для чата /low"
+
+msgctxt "/say chat rombie range"
+msgid "Sandbox_TICS_SayZombieRange"
+msgstr "Дистанция слышимости зомби для чата /say"
+
+msgctxt "/yell chat rombie range"
+msgid "Sandbox_TICS_YellZombieRange"
+msgstr "Дистанция слышимости зомби для чата /yell"
